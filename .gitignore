@@ -1,0 +1,4 @@
+release-builds
+windows_installer
+build_installer.js
+node_modules
